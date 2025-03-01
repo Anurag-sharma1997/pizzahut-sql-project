@@ -289,10 +289,10 @@ FROM (
 ## Conclusion
 
 This analysis provides critical business insights to optimize pizza sales strategy.
-✅ High-revenue pizzas should be promoted aggressively.
-✅ Peak order times should be leveraged with marketing and staffing adjustments.
-✅ Customer preferences (pizza size, category, bestsellers) should guide menu decisions.
-✅ Revenue tracking and seasonal trends should inform future sales strategies.
+- High-revenue pizzas should be promoted aggressively.
+- Peak order times should be leveraged with marketing and staffing adjustments.
+- Customer preferences (pizza size, category, bestsellers) should guide menu decisions.
+- Revenue tracking and seasonal trends should inform future sales strategies.
 
 ## AUTHOR - ANURAG SHARMA
 ## EMAIL - anurag.sharma.mba.2023@miet.ac.in
