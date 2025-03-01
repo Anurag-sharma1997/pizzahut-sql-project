@@ -294,3 +294,5 @@ This analysis provides critical business insights to optimize pizza sales strate
 ✅ Customer preferences (pizza size, category, bestsellers) should guide menu decisions.
 ✅ Revenue tracking and seasonal trends should inform future sales strategies.
 
+## AUTHOR - ANURAG SHARMA
+## EMAIL - anurag.sharma.mba.2023@miet.ac.in
